@@ -1,7 +1,9 @@
+
 [![MasterHead](https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif)](https://github.com/3shaan)
+
 <h1 align="center">Hi 👋, I'm Eshan Ahammed</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3shaan&label=Profile%20views&color=0e75b6&style=flat" alt="3shaan" /> </p>
 
@@ -9,13 +11,13 @@
 
 - 🌱 I’m currently learning **Typescript, React Native**
 
-- 👨‍💻 All of my projects are available at [https://3shaan-portfolio.vercel.app/](https://3shaan-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfilio](https://3shaan-portfolio.vercel.app/)
 
 - 💬 Ask me about **React, JavaScript , Tailwind CSS**
 
 - 📫 How to reach me **3shaan.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hiZCYFDSoeWdYT0AmpTAVOLelysx6Zz_/view?usp=sharing](https://drive.google.com/file/d/1hiZCYFDSoeWdYT0AmpTAVOLelysx6Zz_/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hiZCYFDSoeWdYT0AmpTAVOLelysx6Zz_/view?usp=sharing)
 
 - ⚡ Fun fact **I am like a Browser, can't understand anything but JavaScript.**
 
