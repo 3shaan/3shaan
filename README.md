@@ -8,22 +8,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3shaan&label=Profile%20views&color=0e75b6&style=flat" alt="3shaan" /> </p>
 
 
-- 🌱 I’m currently learning **Typescript, React Native**
+- 🌱 I’m currently learning **Linux, Next JS 13**
 
 - 👨‍💻 All of my projects are available at [My Portfilio](https://3shaan-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript , Tailwind CSS**
+- 💬 Ask me about **React, JavaScript, Tailwind CSS, Next JS, Node JS, Express JS, MongoDB**
 
-- 📫 How to reach me **3shaan.dev@gmail.com**
+- 📫 How to reach me **3shaan.dev@proton.me**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hiZCYFDSoeWdYT0AmpTAVOLelysx6Zz_/view?usp=sharing)
 
-- ⚡ Fun fact **I am like a Browser, can't understand anything but JavaScript.**
+- ⚡ Fun fact **Do you know why programmers don't like nature? Because it has too many bugs. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/3shaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="3shaan" height="30" width="40" /></a>
-<a href="https://fb.com/3shaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3shaan" height="30" width="40" /></a>
+<a href="https://fb.com/3shaan.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="3shaan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
