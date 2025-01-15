@@ -8,11 +8,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=3shaan&label=Profile%20views&color=0e75b6&style=flat" alt="3shaan" /> </p>
 
 
-- 🌱 I’m currently learning **Linux, Next JS 13**
+- 🌱 I’m currently learning ** AWS **
 
 - 👨‍💻 All of my projects are available at [My Portfilio](https://3shaan-portfolio.vercel.app/)
 
-- 💬 Ask me about **React, JavaScript, Tailwind CSS, Next JS, Node JS, Express JS, MongoDB**
+- 💬 Ask me about **React JS, JavaScript, Typescript, Tailwind CSS, Next JS, Node JS, Express JS, MongoDB, MySQL**
 
 - 📫 How to reach me **3shaan.dev@proton.me**
 
